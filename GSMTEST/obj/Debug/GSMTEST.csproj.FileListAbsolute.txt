@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\GSMConsole\GSMTEST\bin\Debug\GSMTEST.exe.config
+C:\Users\USER\source\repos\GSMConsole\GSMTEST\bin\Debug\GSMTEST.exe
+C:\Users\USER\source\repos\GSMConsole\GSMTEST\bin\Debug\GSMTEST.pdb
+C:\Users\USER\source\repos\GSMConsole\GSMTEST\obj\Debug\GSMTEST.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GSMConsole\GSMTEST\obj\Debug\GSMTEST.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GSMConsole\GSMTEST\obj\Debug\GSMTEST.exe
+C:\Users\USER\source\repos\GSMConsole\GSMTEST\obj\Debug\GSMTEST.pdb

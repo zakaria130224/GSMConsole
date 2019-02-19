@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\GSMConsole\GSMForm\bin\Debug\GSMForm.exe.config
+C:\Users\USER\source\repos\GSMConsole\GSMForm\bin\Debug\GSMForm.exe
+C:\Users\USER\source\repos\GSMConsole\GSMForm\bin\Debug\GSMForm.pdb
+C:\Users\USER\source\repos\GSMConsole\GSMForm\obj\Debug\GSMForm.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GSMConsole\GSMForm\obj\Debug\GSMForm.Form1.resources
+C:\Users\USER\source\repos\GSMConsole\GSMForm\obj\Debug\GSMForm.Properties.Resources.resources
+C:\Users\USER\source\repos\GSMConsole\GSMForm\obj\Debug\GSMForm.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\GSMConsole\GSMForm\obj\Debug\GSMForm.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GSMConsole\GSMForm\obj\Debug\GSMForm.exe
+C:\Users\USER\source\repos\GSMConsole\GSMForm\obj\Debug\GSMForm.pdb

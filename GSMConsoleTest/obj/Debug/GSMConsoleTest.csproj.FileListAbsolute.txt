@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\GSMConsole\GSMConsoleTest\obj\Debug\GSMConsoleTest.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GSMConsole\GSMConsoleTest\obj\Debug\GSMConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GSMConsole\GSMConsoleTest\bin\Debug\GSMConsoleTest.exe.config
+C:\Users\USER\source\repos\GSMConsole\GSMConsoleTest\bin\Debug\GSMConsoleTest.exe
+C:\Users\USER\source\repos\GSMConsole\GSMConsoleTest\bin\Debug\GSMConsoleTest.pdb
+C:\Users\USER\source\repos\GSMConsole\GSMConsoleTest\obj\Debug\GSMConsoleTest.exe
+C:\Users\USER\source\repos\GSMConsole\GSMConsoleTest\obj\Debug\GSMConsoleTest.pdb
